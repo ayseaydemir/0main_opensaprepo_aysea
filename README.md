@@ -1,2 +1,2 @@
 # 0main_opensaprepo_aysea
-Main Repository for Git Web IDE demo
+Main Repository for [OpenSAP] (http;//opensap.com) Git Web IDE demo
